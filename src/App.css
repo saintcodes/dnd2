@@ -49,6 +49,7 @@
 .char-select-container {
   display: flex;
   justify-content: center;
+  gap: 1%;
 }
 
 .char-name, .class-select {
